@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Grace, and this GitHub account is primarily for my work supporting open source communities and projects at Open Source Collective. If you're here looking for code -- there isn't any! But if you want to learn more about OSC, you can here: https://oscollective.org
 
 <!--
 **gracepowers/gracepowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
